@@ -1,5 +1,5 @@
 import pywikibot as pwb
-import json, os
+import json
 
 #setup
 wik = pwb.Site("en", "isles")
